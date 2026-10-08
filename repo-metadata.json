@@ -1,0 +1,13 @@
+{
+  "name": "foundry-ai-infographic-dashboard",
+  "description": "An evidence-based case study of enterprise KPI exploration and generated infographic workflows.",
+  "topics": [
+    "palantir-foundry",
+    "ontology",
+    "enterprise-ai",
+    "data-engineering"
+  ],
+  "visibility": "public",
+  "branch": "main",
+  "license": "no-blanket-reuse-license"
+}
